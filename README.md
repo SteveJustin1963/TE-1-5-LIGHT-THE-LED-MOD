@@ -4,6 +4,8 @@ After a couple of requests for help with LIGHT THE LED, we found the de-bounce c
 
 ![](https://github.com/SteveJustin1963/TE-1-5-LIGHT-THE-LED-MOD/blob/master/CCT.png)
 
+https://easyeda.com/editor#id=1489d2a1d726442892ff16bf925481ef
+
 ![](https://github.com/SteveJustin1963/TE-1-5-LIGHT-THE-LED-MOD/blob/master/LAY.png)
 
 ## Parts List:
