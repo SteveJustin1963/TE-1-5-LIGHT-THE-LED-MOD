@@ -1,4 +1,4 @@
-# TE-1-5-LIGHT-THE-LED-MOD
+# TE-1-LIGHT-THE-LED-MOD
 
 After a couple of requests for help with LIGHT THE LED, we found the de-bounce circuit comprising the two electrolytics at the input of CD 4017, was not good enough. Some brands of IC's were more sensitive and had a tendency to clock two or even three outputs on a single pulse of the switch. No matter how we altered the 2-capacitor de-bounce network, it was not satisfactory. So we designed a different arrangement. This time we employed a transistor to change the state of the input gate from HIGH to LOW. As the 4.7mfd cap charges, the base voltage rises, turning on and saturating the transistor. The voltage at the collector changes from rail voltage to about one volt. This clocks the IC. This circuit works with any CD 4017 and enables the led to light correctly every time. All the parts can be mounted on the PC board without cutting any copper tracks.  
 
